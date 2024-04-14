@@ -1,5 +1,5 @@
 # Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled!
-![Presentation Title](Thumbnail.jpg)
+![Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled!](thumbnail.jpg)
 
 ## Elevator Pitch
 
