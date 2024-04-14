@@ -1,11 +1,12 @@
-![Cloud Nirvana Awaits: Azure’s Serverless Symphony Unveiled!](Thumbnail.jpg)
-
-# Cloud Nirvana Awaits: Azure’s Serverless Symphony Unveiled!
+# Cloud Nirvana Awaits: Azure's Serverless Symphony Unveiled!
+![Presentation Title](Thumbnail.jpg)
 
 ## Elevator Pitch
+
 Dive into the dynamic world of serverless computing with Microsoft Azure, exploring a spectrum of cutting-edge solutions, practical insights, and real-world case studies, empowering you to make informed decisions and unlock innovation in your organization's cloud journey.
 
 ## Short Abstract
+
 Join us on a transformative journey as we explore serverless architecture possibilities with Microsoft Azure. Discover the foundational principles and diverse benefits of serverless computing, and delve into crucial serverless Azure services such as Azure Functions, Logic Apps, Event Grid, App Service, Durable Functions, Static Web Apps, API Management, Kubernetes Service, Synapse Link, Azure Arc. Through practical insights, best practices, and real-world case studies, gain a comprehensive understanding of how these services cater to specific business needs. Whether aiming to streamline workflows, build scalable applications, or optimize data processing, this presentation equips you with the knowledge to make informed decisions, fostering efficiency and innovation in your organization's cloud journey.
 
 ## Abstract
@@ -41,10 +42,9 @@ Whether you want to streamline workflows, build scalable applications, or optimi
 - Workflows
 
 ## Learning Objectives
--	**Diverse Serverless Solutions:** Gain a comprehensive understanding of the various serverless architecture possibilities within Microsoft Azure, ranging from Azure Functions and Logic Apps for event-driven compute and workflows to Azure Container Apps for building modern apps and microservices using serverless containers. Explore how each service caters to specific use cases, empowering you to choose the right tool for your business needs.
--	**Practical Implementation Insights:** Acquire valuable insights and best practices for implementing serverless solutions on Azure. Learn how to design for scalability, ensure reliability, and optimize performance. Dive into real-world case studies showcasing successful implementations, illustrating the tangible benefits of leveraging Azure's serverless offerings.
--	**Informed Decision-Making:** Equip yourself with the knowledge and tools to make informed decisions in your organization's cloud journey. Understand the key considerations, design principles, and security aspects essential for successfully adopting serverless architecture. This presentation provides valuable insights to unlock innovation and drive efficiency in your Azure-powered projects.
-
+- **Diverse Serverless Solutions:** Gain a comprehensive understanding of the various serverless architecture possibilities within Microsoft Azure, ranging from Azure Functions and Logic Apps for event-driven compute and workflows to Azure Container Apps for building modern apps and microservices using serverless containers. Explore how each service caters to specific use cases, empowering you to choose the right tool for your business needs.
+- **Practical Implementation Insights:** Acquire valuable insights and best practices for implementing serverless solutions on Azure. Learn how to design for scalability, ensure reliability, and optimize performance. Dive into real-world case studies showcasing successful implementations, illustrating the tangible benefits of leveraging Azure's serverless offerings.
+- **Informed Decision-Making:** Equip yourself with the knowledge and tools to make informed decisions in your organization's cloud journey. Understand the key considerations, design principles, and security aspects essential for successfully adopting serverless architecture. This presentation provides valuable insights to unlock innovation and drive efficiency in your Azure-powered projects.
 
 ## Presentations
 
@@ -52,4 +52,7 @@ Whether you want to streamline workflows, build scalable applications, or optimi
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | This presentation has yet to be scheduled. | | | | | |
 
-Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Cloud%20Nirvana%20Awaits:%20Azure’s%20Serverless%20Symphony%20Unveiled) to have Chad present this session at your event.
+## Resources
+There are no additional resources for this presentation.
+
+Email [chadgreen@chadgreen.com](mailto:chadgreen@chadgreen.com?subject=Presentation%20Request:%20Serverless%20Nirvana) to have Chad present this session at your event.
